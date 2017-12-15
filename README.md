@@ -9,7 +9,7 @@
 ### 误区
 
 1、必须在服务器环境下才能运行此程序，因为子线程要依赖后端去运行，不然会导致下面错误
-![error](C:\Users\admin\Desktop\TIM图片20171215153144.png)
+![error](https://static.oschina.net/uploads/space/2017/1215/160826_qBrh_2949632.png)
 
 ### 思考
 
